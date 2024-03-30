@@ -1,0 +1,143 @@
+[class^="col-"]{
+	float: left;
+	padding: 0 15px;
+}
+      	/*minimo header css*/
+.header{
+	padding-top: 70px;
+}	
+.logo{
+	display: inline-block;
+}
+.navbar ul{
+	display: inline-block;
+}	
+.navbar li{
+	display: inline-block;
+}
+.navbar li a{
+	display: inline-block;
+	color: #626262;
+	font-size: 14px;
+	font-weight: lighter;
+	height:20px;
+	line-height: 20px;
+}
+.navbar ul li{
+	margin-left: 100px;
+}
+        /*--------minimo thumbnailsection  css---------*/
+
+.thumbImg{
+	margin-bottom: 30px;
+}	
+.thumbnailSection{
+	padding: 135px 0 125px;
+}	
+.innerRow.col-6:first-child{
+	padding-left: 0px;
+}
+.innerRow.col-6:last-child{
+	padding-right: 0px;
+}
+.thumbnail .para{
+	margin-bottom: 0px;
+}
+
+
+       /*-------------minimo news section css----------*/
+.news-section{
+	background-color: #f0f0f0;
+	padding: 70px 0 70px;
+	
+}
+
+.news-heading{
+	 color: #333333;
+	 font-size: 30px ;
+	 font-weight: 400;
+	 font-family: playfair-display;
+	 margin-bottom: 80px;
+}
+.from-group{
+	 height: 30px;
+	 overflow: hidden;
+	 position: relative;
+}
+ .email{
+	 height: 100%;
+	 display: inline-block;
+	 width: 100%;
+	 padding-left: 10px; 
+	 border: none;
+	 border-bottom: 1px solid;
+	 background-color: transparent;
+	 outline: none;
+}
+input[type="email"].big-dog:: -webkit-input-placeholder{
+  color: #626262;
+}
+.submitbtn{
+    position: absolute;
+	top: 5px;
+	right:10px;
+	color: #626262;
+	border:0px;
+	background-color: transparent;
+	transform: rotate(45deg);
+}
+
+/*/--------------------------------minimo song-section css------------------------------------------*/
+
+.thumbnail{
+	margin-bottom: 90px;
+}
+.btn{
+	font-size: 20px;
+	padding: 20px;
+	font-weight: 400;
+	color: #626262;
+	border: 1px solid #626262;
+	background-color: #ffffff;
+	text-transform: capitalize;
+    margin-bottom: 70px;
+	transition: all 0.3s easy-in-out;
+}
+.btn:hover,.btn:focus,.btn:active{
+	color: #ffffff;
+	background-color: #626262;
+}
+
+
+/*-------------------------------minimo footer sectoin css-----------------------------------*/
+.footerSection{
+	background-color: #f0f0f0;
+	padding: 40px 0;
+}	
+	
+.footerlinks li{
+	display: inline-block;
+}
+.footerlinks li{
+	color: #000000;
+	font-size: 14px;
+	font-weight: 400;
+	text-transform: capitalize;
+	margin-right: 15px;
+	height: 47px;
+	line-height: 47px;
+}
+.footerlinks li a{
+	display: inline-block;
+	color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
